@@ -21,7 +21,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duasong111/duasong111/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duasong111/duasong111/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/duasong111/duasong111/output/github-snake.svg" width="80%" />
 </picture>
 
 <!-- 技能图标（按需增删，图标来自 skillicons.dev） -->
@@ -40,7 +39,7 @@
 </p>
 
 <!-- 可选：访客统计（如果想要显示访问量） -->
-<!-- <img src="https://komarev.com/ghpvc/?username=duasong111&style=flat-square&color=blue" alt="profile views" /> -->
+<img src="https://komarev.com/ghpvc/?username=duasong111&style=flat-square&color=blue" alt="profile views" /> 
 
 </div>
 
