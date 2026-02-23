@@ -1,37 +1,36 @@
 <div align="center">
 
-<!-- 打字机欢迎语（加回，超级吸睛） -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+我是+duasong111;绿藻头呀+天下第一棒！;全栈摸鱼+硬件小爱好者;喝茶+写Bug+继续卷" alt="Typing SVG" />
+<!-- 打字机欢迎语（颜色改为黑色） -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+我是+duasong111;绿藻头呀+天下第一棒！;全栈摸鱼+硬件小爱好者;喝茶+写Bug+继续卷" alt="Typing SVG" />
 
-<!-- 简介 & About Me（强化自信+ CSDN 风格） -->
+<!-- 简介 & About Me -->
 <h3>一个不断学习新技术的普通开发者</h3>
 <h4>绿藻头呀 @ CSDN | 我是天下第一棒！（微信小程序 / ESP32 / Django+Vue / Git / ...）</h4>
 
 <p align="left">
-  码龄5年+，目前在杭州码代码、踩坑、喝茶三件套。<br>
-  喜欢折腾全栈项目（Vue + Django 部署、微信小程序）、硬件（ESP32、树莓派）、数据库（MySQL/PostgreSQL）和自动化脚本。<br>
+  码龄4年+，目前在武汉工作。<br>
+  喜欢学习和折腾全栈项目（Vue + Django 部署、微信小程序）、硬件（ESP32、树莓派）、数据库（MySQL/PostgreSQL）和自动化脚本。<br>
   CSDN 博客分享日常血泪史和技术笔记（好难啊！但还是要卷）：<a href="https://blog.csdn.net/m0_61196970">点我去围观 →</a><br>
-  目前小目标：多攒星星、多贡献开源、把“好难啊”变成“好酷啊”<br>
   欢迎随时找我聊技术、吐槽考研/就业、交换摸鱼经验～
 </p>
 
-<!-- Streak 统计卡（保持最稳定那个） -->
+<!-- Streak 统计卡 -->
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=duasong111&theme=tokyonight&hide_border=true&date_format=M+j%2C+Y" width="60%" alt="Contribution Streak" />
 </p>
 
-<!-- 成就奖杯（如果你之前加了 trophy，这里可以放；没加的话可选，先注释掉） -->
-<!-- 
+<!-- 成就奖杯（可选，保持注释状态，如果你想显示就去掉注释） -->
+<!--
 <h3>🏆 GitHub Trophies</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=duasong111&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" alt="Trophies" />
 </p>
 -->
 
-<!-- 技能图标 -->
+<!-- 技能图标：添加 go -->
 <br/><br/>
 <h3>🛠️ Tech Stack</h3>
-<img src="https://skillicons.dev/icons?i=ts,vue,python,docker,git,linux,html,css,postgres,mysql,redis,raspberrypi&perline=8&theme=dark" alt="skills" />
+<img src="https://skillicons.dev/icons?i=ts,vue,python,docker,git,linux,html,css,postgres,mysql,redis,raspberrypi,go&perline=8&theme=dark" alt="skills" />
 
 <!-- 社交 & 联系方式 -->
 <br/><br/>
