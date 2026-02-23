@@ -1,13 +1,10 @@
 <div align="center">
 
-<!-- 打字机欢迎语（保持原样，已生效） -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+duasong111;热爱折腾+喜欢 coding;全栈摸鱼选手;喝茶+写Bug+摸鱼三件套" alt="Typing SVG" />
-
 <!-- 简介（稍作调整，融入 CSDN 风格） -->
-<h3>一个在代码和咖啡之间反复横跳的普通开发者</h3>
+<h3>一个不断的学习新技术的普通开发者</h3>
 <h4>绿藻头呀 @ CSDN | 我是天下第一棒！（全栈工程师 / 微信小程序 / ESP32 / Django+Vue / Git /...）</h4>
 
-<!-- 只保留最稳定的 streak 统计卡（你的截图里这个部分出来了，其他的容易出问题，先删掉 trophy 和 top-langs） -->
+<!-- 只保留最稳定的 streak 统计卡 -->
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=duasong111&theme=tokyonight&hide_border=true&date_format=M+j%2C+Y" width="60%" />
 </p>
