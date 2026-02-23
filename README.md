@@ -1,21 +1,10 @@
 <div align="center">
 
 <!-- 打字机欢迎语 -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+duasong111;热爱折腾+喜欢 coding;全栈摸鱼选手;喝茶+写Bug+摸鱼三件套" alt="Typing SVG" />
-
 <!-- 简介一句话（可改成你自己的风格） -->
 <h3>一个在代码和咖啡之间反复横跳的普通开发者</h3>
 
 <!-- 统计卡片 - radical 主题很鲜艳，tokyonight 更赛博，你可以换 -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=duasong111&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duasong111&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duasong111&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=duasong111&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" width="48%" />
-</p>
 
 <!-- 贡献蛇（需要先手动生成，见下方说明） -->
 <picture>
